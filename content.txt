@@ -1,0 +1,74 @@
+1 History
+2 Definitions
+3 Basics
+4 Problems
+4.1 Reasoning, problem solving
+4.2 Knowledge representation
+4.3 Planning
+4.4 Learning
+4.5 Natural language processing
+4.6 Perception
+4.7 Motion and manipulation
+4.8 Social intelligence
+4.9 General intelligence
+5 Approaches
+5.1 Cybernetics and brain simulation
+5.2 Symbolic
+5.2.1 Cognitive simulation
+5.2.2 Logic-based
+5.2.3 Anti-logic or scruffy
+5.2.4 Knowledge-based
+5.3 Sub-symbolic
+5.3.1 Embodied intelligence
+5.3.2 Computational intelligence and soft computing
+5.4 Statistical learning
+5.5 Integrating the approaches
+6 Tools
+6.1 Search and optimization
+6.2 Logic
+6.3 Probabilistic methods for uncertain reasoning
+6.4 Classifiers and statistical learning methods
+6.5 Artificial neural networks
+6.5.1 Deep feedforward neural networks
+6.5.2 Deep recurrent neural networks
+6.6 Evaluating progress
+7 Applications
+7.1 Healthcare
+7.2 Automotive
+7.3 Finance and economics
+7.4 Government
+7.5 Video games
+7.6 Military
+7.7 Audit
+7.8 Advertising
+7.9 Art
+8 Philosophy and ethics
+8.1 The limits of artificial general intelligence
+8.2 Potential harm
+8.2.1 Existential risk
+8.2.2 Devaluation of humanity
+8.2.3 Social justice
+8.2.4 Decrease in demand for human labor
+8.2.5 Autonomous weapons
+8.3 Ethical machines
+8.3.1 Artificial moral agents
+8.3.2 Machine ethics
+8.3.3 Malevolent and friendly AI
+8.4 Machine consciousness, sentience and mind
+8.4.1 Consciousness
+8.4.2 Computationalism and functionalism
+8.4.3 Strong AI hypothesis
+8.4.4 Robot rights
+8.5 Superintelligence
+8.5.1 Technological singularity
+8.5.2 Transhumanism
+9 Economics
+10 In fiction
+11 See also
+12 Explanatory notes
+13 References
+13.1 AI textbooks
+13.2 History of AI
+13.3 Other sources
+14 Further reading
+15 External links
